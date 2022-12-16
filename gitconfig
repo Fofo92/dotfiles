@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = pazscal@fodiman.fr
+	email = pascal@fodiman.fr
 	name = Pascal Fodiman
