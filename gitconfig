@@ -49,3 +49,6 @@
 [user]
 	email = pascal@fodiman.fr
 	name = Pascal Fodiman
+[init]
+	defaultBranch = main
+	defaultBranch = main
